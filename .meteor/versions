@@ -27,7 +27,7 @@ localstorage@1.0.1
 logging@1.0.4
 meteor-platform@1.1.2
 meteor@1.1.2
-meteorhacks:aggregations@1.0.0
+meteorhacks:aggregate@1.0.0
 meteorhacks:kadira-binary-deps@1.2.0
 meteorhacks:kadira@2.11.13
 meteorhacks:meteorx@1.2.0
