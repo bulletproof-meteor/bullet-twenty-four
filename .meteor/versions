@@ -7,7 +7,6 @@ blaze@2.0.2
 boilerplate-generator@1.0.1
 callback-hook@1.0.1
 check@1.0.2
-coffeescript@1.0.4
 ctl-helper@1.0.4
 ctl@1.0.2
 ddp@1.0.10
@@ -28,6 +27,7 @@ localstorage@1.0.1
 logging@1.0.4
 meteor-platform@1.1.2
 meteor@1.1.2
+meteorhacks:aggregations@1.0.0
 meteorhacks:kadira-binary-deps@1.2.0
 meteorhacks:kadira@2.11.13
 meteorhacks:meteorx@1.2.0
@@ -36,7 +36,6 @@ minimongo@1.0.4
 mobile-status-bar@1.0.1
 mongo-livedata@1.0.6
 mongo@1.0.7
-mrt:mongodb-aggregation@0.1.71
 observe-sequence@1.0.3
 ordered-dict@1.0.1
 random@1.0.1

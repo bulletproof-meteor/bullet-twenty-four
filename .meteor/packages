@@ -5,5 +5,4 @@
 
 meteor-platform
 meteorhacks:kadira
-mrt:mongodb-aggregation
-
+meteorhacks:aggregations
